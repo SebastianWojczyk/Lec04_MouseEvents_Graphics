@@ -1,0 +1,10 @@
+C:\Users\Wykładowca\source\repos\08_MouseEvents_Graphics\08_MouseEvents_Graphics\bin\Debug\08_MouseEvents_Graphics.exe.config
+C:\Users\Wykładowca\source\repos\08_MouseEvents_Graphics\08_MouseEvents_Graphics\bin\Debug\08_MouseEvents_Graphics.exe
+C:\Users\Wykładowca\source\repos\08_MouseEvents_Graphics\08_MouseEvents_Graphics\bin\Debug\08_MouseEvents_Graphics.pdb
+C:\Users\Wykładowca\source\repos\08_MouseEvents_Graphics\08_MouseEvents_Graphics\obj\Debug\08_MouseEvents_Graphics.csproj.AssemblyReference.cache
+C:\Users\Wykładowca\source\repos\08_MouseEvents_Graphics\08_MouseEvents_Graphics\obj\Debug\_08_MouseEvents_Graphics.Form1.resources
+C:\Users\Wykładowca\source\repos\08_MouseEvents_Graphics\08_MouseEvents_Graphics\obj\Debug\_08_MouseEvents_Graphics.Properties.Resources.resources
+C:\Users\Wykładowca\source\repos\08_MouseEvents_Graphics\08_MouseEvents_Graphics\obj\Debug\08_MouseEvents_Graphics.csproj.GenerateResource.cache
+C:\Users\Wykładowca\source\repos\08_MouseEvents_Graphics\08_MouseEvents_Graphics\obj\Debug\08_MouseEvents_Graphics.csproj.CoreCompileInputs.cache
+C:\Users\Wykładowca\source\repos\08_MouseEvents_Graphics\08_MouseEvents_Graphics\obj\Debug\08_MouseEvents_Graphics.exe
+C:\Users\Wykładowca\source\repos\08_MouseEvents_Graphics\08_MouseEvents_Graphics\obj\Debug\08_MouseEvents_Graphics.pdb
